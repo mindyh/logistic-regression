@@ -9,10 +9,10 @@ Input
 
 Takes in a text file of the form
 
-  [number of input variables per vector]  return 
-  [number of data vectors in file]  return
-  [first data vector]  return
-  [second data vector]  return
+  [number of input variables per vector]  <br /> 
+  [number of data vectors in file]  <br /> 
+  [first data vector]  <br /> 
+  [second data vector]  <br /> 
   .
   .
   .
